@@ -5,7 +5,7 @@ TSUBAME にはノードの混雑状況を簡単に確認する `qstat --rscuse` 
 他の HPC 環境（例: miyabi, Wisteria）で利用できる `qstat --rscuse` / `pjstat --rscuse` に相当する簡易ツールです。
 
 ## Quick Start
-
+コピペでOK
 ```bash
 cd "$HOME"
 git clone https://github.com/matsuolab/tsubame_add_qstat-rscuse.git
