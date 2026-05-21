@@ -13,6 +13,11 @@ cd tsubame_add_qstat-rscuse
 bash add_qstat-rscuse.sh
 ```
 
+使い方
+```
+qstat-rscuse
+```
+
 ## Example Output
 
 ```text
